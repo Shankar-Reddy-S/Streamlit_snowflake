@@ -1,0 +1,15 @@
+dist/
+build/
+venv/
+
+*.log
+*.exe
+*.spec
+*.conf
+
+**/lib/
+**/__pycatche__
+**/node_modules
+**/package-lock.jason
+**/.streamlit/
+**/yolo
