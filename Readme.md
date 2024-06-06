@@ -66,8 +66,9 @@ Usage
 ### Run the Streamlit application:
 ```bash
 streamlit run app.py
-Open your browser and go to http://localhost:8501 to view the application.
 ```
+Open your browser and go to http://localhost:8501 to view the application.
+
 ### Deployment
 
 To deploy your Streamlit application to Snowflake, follow these steps:
