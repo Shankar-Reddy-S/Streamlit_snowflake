@@ -31,8 +31,7 @@ Before you begin, ensure you have met the following requirements:
 - Streamlit
 - Snowflake Connector for Python
 - Snowflake Account
-- Git
-- Installation
+- Git Installation
 
 Clone the repository:
 ```bash
