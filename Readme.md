@@ -34,13 +34,12 @@ Git
 Installation
 
 Clone the repository:
-'
-  bash
-  Copy code
-  git clone https://github.com/your-username/your-repository.git
-  cd your-repository
-  Create a virtual environment: 
-'
+```bash
+ Copy code
+ git clone https://github.com/your-username/your-repository.git
+ cd your-repository
+ Create a virtual environment: 
+```
 bash
 Copy code
 python -m venv venv
